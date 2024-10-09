@@ -8,7 +8,6 @@ body {
     background-size: 100%;
     background-position-y: 100%;
     font-size: 130%;
-
 }
 div {
     scroll-behavior: auto;
@@ -21,46 +20,31 @@ b {
 }
 p {
     overscroll-behavior-block: auto;
-    background-color: #ffffff;
-    opacity: 80% ;
     display: inline;
-    border-bottom-right-radius: 10px;
     z-index: 1;
 }
 h1 {
     color: blue;
     overscroll-behavior-block: auto;
-    background-color: #ffffff;
-    opacity: 80% ;
     display: inline;
-    border-bottom-right-radius: 10px;
     z-index: 1;
 }
 h2 {
     color:rgb(0, 0, 0);
     overscroll-behavior-block: auto;
-    background-color: #ffffff;
-    opacity: 80% ;
     display: inline;
-    border-bottom-right-radius: 10px;
     z-index: 1;
 }
 h3 {
     color:rgb(0, 0, 0);
     overscroll-behavior-block: auto;
-    background-color: #ffffff;
-    opacity: 80% ;
     display: inline;
-    border-bottom-right-radius: 10px;
     z-index: 1;
 }
 h4 {
     color:rgb(0, 0, 0);
     overscroll-behavior-block: auto;
-    background-color: #ffffff;
-    opacity: 80% ;
     display: inline;
-    border-bottom-right-radius: 10px;
     z-index: 1;
 }
 #fixed-div {
